@@ -1,0 +1,171 @@
+{
+  "run_summary": {
+    "eta": 0.6,
+    "avg_tps": 0.2329203602778407,
+    "completion_time": 98.74619793891907,
+    "quality_score": 0.76
+  },
+  "timed_data": [
+    {
+      "time": 0.08518195152282715,
+      "token_num": 1,
+      "token": " A",
+      "instant_tps": 11.739576073600743,
+      "avg_tps": 11.739576073600743
+    },
+    {
+      "time": 4.8275229930877686,
+      "token_num": 2,
+      "token": " segment",
+      "instant_tps": 0.21086631923671323,
+      "avg_tps": 0.4142911391336046
+    },
+    {
+      "time": 8.614404916763306,
+      "token_num": 3,
+      "token": " is",
+      "instant_tps": 0.26406949573685223,
+      "avg_tps": 0.34825388741155106
+    },
+    {
+      "time": 13.403465032577515,
+      "token_num": 4,
+      "token": " well-segmented",
+      "instant_tps": 0.20880923935321818,
+      "avg_tps": 0.29843029323222636
+    },
+    {
+      "time": 18.374932050704956,
+      "token_num": 5,
+      "token": " when",
+      "instant_tps": 0.20114786970399356,
+      "avg_tps": 0.27210984977809344
+    },
+    {
+      "time": 22.770073890686035,
+      "token_num": 6,
+      "token": " is",
+      "instant_tps": 0.22752394266399942,
+      "avg_tps": 0.2635037562374475
+    },
+    {
+      "time": 27.458497047424316,
+      "token_num": 7,
+      "token": " is",
+      "instant_tps": 0.2132913277170349,
+      "avg_tps": 0.2549301947557476
+    },
+    {
+      "time": 32.343180894851685,
+      "token_num": 8,
+      "token": " measurable,",
+      "instant_tps": 0.20472154006992144,
+      "avg_tps": 0.2473473473746493
+    },
+    {
+      "time": 37.525449991226196,
+      "token_num": 9,
+      "token": " ...",
+      "instant_tps": 0.19296566453864675,
+      "avg_tps": 0.2398372305223331
+    },
+    {
+      "time": 42.247750997543335,
+      "token_num": 10,
+      "token": " accessible,",
+      "instant_tps": 0.2117611729244441,
+      "avg_tps": 0.2366989902156328
+    },
+    {
+      "time": 46.59731698036194,
+      "token_num": 11,
+      "token": " differentiable,",
+      "instant_tps": 0.22990799632656234,
+      "avg_tps": 0.23606509371850445
+    },
+    {
+      "time": 51.42660093307495,
+      "token_num": 12,
+      "token": " and",
+      "instant_tps": 0.20707003559776524,
+      "avg_tps": 0.23334227388694118
+    },
+    {
+      "time": 55.82741189002991,
+      "token_num": 13,
+      "token": " actionable;",
+      "instant_tps": 0.2272308467191983,
+      "avg_tps": 0.2328605170808866
+    },
+    {
+      "time": 60.73803901672363,
+      "token_num": 14,
+      "token": " and",
+      "instant_tps": 0.20363997799060946,
+      "avg_tps": 0.23049805734006715
+    },
+    {
+      "time": 65.05139493942261,
+      "token_num": 15,
+      "token": " two",
+      "instant_tps": 0.2318380439549433,
+      "avg_tps": 0.2305869076899635
+    },
+    {
+      "time": 69.21403908729553,
+      "token_num": 16,
+      "token": " segments",
+      "instant_tps": 0.24023192098007978,
+      "avg_tps": 0.23116697437379946
+    },
+    {
+      "time": 73.74805998802185,
+      "token_num": 17,
+      "token": " respond",
+      "instant_tps": 0.2205547839093126,
+      "avg_tps": 0.23051453831817592
+    },
+    {
+      "time": 78.62165093421936,
+      "token_num": 18,
+      "token": " identically",
+      "instant_tps": 0.2051875118448797,
+      "avg_tps": 0.22894456916276307
+    },
+    {
+      "time": 82.32340097427368,
+      "token_num": 19,
+      "token": " to",
+      "instant_tps": 0.2701424972457961,
+      "avg_tps": 0.23079707319110346
+    },
+    {
+      "time": 87.07922101020813,
+      "token_num": 20,
+      "token": " your",
+      "instant_tps": 0.21026867973222516,
+      "avg_tps": 0.2296759177215818
+    },
+    {
+      "time": 90.95969700813293,
+      "token_num": 21,
+      "token": " ...",
+      "instant_tps": 0.25770034411623177,
+      "avg_tps": 0.23087148144438452
+    },
+    {
+      "time": 95.02023696899414,
+      "token_num": 22,
+      "token": " merge",
+      "instant_tps": 0.2462726656156115,
+      "avg_tps": 0.23152962675917946
+    },
+    {
+      "time": 98.74619793891907,
+      "token_num": 23,
+      "token": " them.",
+      "instant_tps": 0.26838713772682077,
+      "avg_tps": 0.2329203602778407
+    }
+  ]
+}

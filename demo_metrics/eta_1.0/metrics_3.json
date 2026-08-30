@@ -1,0 +1,213 @@
+{
+  "run_summary": {
+    "eta": 1.0,
+    "avg_tps": 0.12757344053863476,
+    "completion_time": 227.32004308700562,
+    "quality_score": 1.0
+  },
+  "timed_data": [
+    {
+      "time": 0.05678296089172363,
+      "token_num": 1,
+      "token": " Jason",
+      "instant_tps": 17.610916801377197,
+      "avg_tps": 17.610916801377197
+    },
+    {
+      "time": 7.671238899230957,
+      "token_num": 2,
+      "token": " Voorhees",
+      "instant_tps": 0.1313291465730258,
+      "avg_tps": 0.2607140810333127
+    },
+    {
+      "time": 14.973192930221558,
+      "token_num": 3,
+      "token": " hero",
+      "instant_tps": 0.13694964330860593,
+      "avg_tps": 0.20035806751309984
+    },
+    {
+      "time": 23.038350105285645,
+      "token_num": 4,
+      "token": " profile:",
+      "instant_tps": 0.12399014405966041,
+      "avg_tps": 0.17362354429548701
+    },
+    {
+      "time": 29.885250091552734,
+      "token_num": 5,
+      "token": " Relentless",
+      "instant_tps": 0.14605149805104675,
+      "avg_tps": 0.16730661395446322
+    },
+    {
+      "time": 36.947350025177,
+      "token_num": 6,
+      "token": " Pursuit",
+      "instant_tps": 0.14160094156113143,
+      "avg_tps": 0.16239324324779517
+    },
+    {
+      "time": 43.99841594696045,
+      "token_num": 7,
+      "token": " ignores",
+      "instant_tps": 0.14182252883363583,
+      "avg_tps": 0.15909663676161465
+    },
+    {
+      "time": 52.3846480846405,
+      "token_num": 8,
+      "token": " difficult",
+      "instant_tps": 0.11924306215027307,
+      "avg_tps": 0.15271649791507616
+    },
+    {
+      "time": 60.57867908477783,
+      "token_num": 9,
+      "token": " terrain,",
+      "instant_tps": 0.12204005574097052,
+      "avg_tps": 0.14856712189786775
+    },
+    {
+      "time": 69.96470594406128,
+      "token_num": 10,
+      "token": " Undying",
+      "instant_tps": 0.10654135290598801,
+      "avg_tps": 0.14292920787797317
+    },
+    {
+      "time": 77.34533095359802,
+      "token_num": 11,
+      "token": " returns",
+      "instant_tps": 0.13548988042447188,
+      "avg_tps": 0.14221931517235678
+    },
+    {
+      "time": 85.71717691421509,
+      "token_num": 12,
+      "token": " to",
+      "instant_tps": 0.11944796938503308,
+      "avg_tps": 0.13999527786606275
+    },
+    {
+      "time": 94.34217095375061,
+      "token_num": 13,
+      "token": " play",
+      "instant_tps": 0.11594210910942873,
+      "avg_tps": 0.13779627783181916
+    },
+    {
+      "time": 103.63243007659912,
+      "token_num": 14,
+      "token": " once",
+      "instant_tps": 0.1076396241242179,
+      "avg_tps": 0.13509284680145014
+    },
+    {
+      "time": 113.04812502861023,
+      "token_num": 15,
+      "token": " per",
+      "instant_tps": 0.1062056497259832,
+      "avg_tps": 0.13268685346354747
+    },
+    {
+      "time": 120.11532807350159,
+      "token_num": 16,
+      "token": " game,",
+      "instant_tps": 0.14149869384648092,
+      "avg_tps": 0.133205314064573
+    },
+    {
+      "time": 127.48499298095703,
+      "token_num": 17,
+      "token": " and",
+      "instant_tps": 0.135691379805934,
+      "avg_tps": 0.1333490287954078
+    },
+    {
+      "time": 134.28433108329773,
+      "token_num": 18,
+      "token": " Crystal",
+      "instant_tps": 0.14707313931862664,
+      "avg_tps": 0.13404393390346075
+    },
+    {
+      "time": 142.40936994552612,
+      "token_num": 19,
+      "token": " Lake",
+      "instant_tps": 0.1230763343974625,
+      "avg_tps": 0.13341818735149102
+    },
+    {
+      "time": 151.19071888923645,
+      "token_num": 20,
+      "token": " Dread",
+      "instant_tps": 0.1138777204288475,
+      "avg_tps": 0.1322832522190212
+    },
+    {
+      "time": 159.85837602615356,
+      "token_num": 21,
+      "token": " lowers",
+      "instant_tps": 0.11537143015738587,
+      "avg_tps": 0.13136627884024235
+    },
+    {
+      "time": 168.64576697349548,
+      "token_num": 22,
+      "token": " nearby",
+      "instant_tps": 0.11379942078285342,
+      "avg_tps": 0.1304509469452473
+    },
+    {
+      "time": 177.9547049999237,
+      "token_num": 23,
+      "token": " morale.",
+      "instant_tps": 0.10742363921222638,
+      "avg_tps": 0.12924637199117528
+    },
+    {
+      "time": 186.17457008361816,
+      "token_num": 24,
+      "token": " Weapons:",
+      "instant_tps": 0.12165649798604057,
+      "avg_tps": 0.12891126854339277
+    },
+    {
+      "time": 194.98591208457947,
+      "token_num": 25,
+      "token": " machete,",
+      "instant_tps": 0.11349009037339619,
+      "avg_tps": 0.1282143911461444
+    },
+    {
+      "time": 203.4726939201355,
+      "token_num": 26,
+      "token": " axe,",
+      "instant_tps": 0.11783029414169957,
+      "avg_tps": 0.12778127373791584
+    },
+    {
+      "time": 212.45887994766235,
+      "token_num": 27,
+      "token": " and",
+      "instant_tps": 0.11128191614737985,
+      "avg_tps": 0.1270834149490539
+    },
+    {
+      "time": 220.23411011695862,
+      "token_num": 28,
+      "token": " harpoon",
+      "instant_tps": 0.1286135558981799,
+      "avg_tps": 0.1271374356366967
+    },
+    {
+      "time": 227.32004308700562,
+      "token_num": 29,
+      "token": " gun.",
+      "instant_tps": 0.14112467676833917,
+      "avg_tps": 0.12757344053863476
+    }
+  ]
+}

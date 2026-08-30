@@ -1,0 +1,206 @@
+{
+  "run_summary": {
+    "eta": 0.8,
+    "avg_tps": 0.16587731569757808,
+    "completion_time": 168.7994520664215,
+    "quality_score": 0.94
+  },
+  "timed_data": [
+    {
+      "time": 0.048829078674316406,
+      "token_num": 1,
+      "token": " to",
+      "instant_tps": 20.479600007812348,
+      "avg_tps": 20.479600007812348
+    },
+    {
+      "time": 5.8855860233306885,
+      "token_num": 2,
+      "token": " follow",
+      "instant_tps": 0.17132801819262206,
+      "avg_tps": 0.3398132305044771
+    },
+    {
+      "time": 11.331916093826294,
+      "token_num": 3,
+      "token": " you",
+      "instant_tps": 0.1836098780382956,
+      "avg_tps": 0.26473898810761765
+    },
+    {
+      "time": 17.90876603126526,
+      "token_num": 4,
+      "token": " across",
+      "instant_tps": 0.15204847449954156,
+      "avg_tps": 0.2233543055404694
+    },
+    {
+      "time": 25.230469942092896,
+      "token_num": 5,
+      "token": " devices",
+      "instant_tps": 0.13658022943554968,
+      "avg_tps": 0.19817308244656676
+    },
+    {
+      "time": 30.98861598968506,
+      "token_num": 6,
+      "token": " through",
+      "instant_tps": 0.1736670087446222,
+      "avg_tps": 0.19361948923427796
+    },
+    {
+      "time": 38.32140898704529,
+      "token_num": 7,
+      "token": " cross-device",
+      "instant_tps": 0.13637368467376554,
+      "avg_tps": 0.18266551739698242
+    },
+    {
+      "time": 45.76253700256348,
+      "token_num": 8,
+      "token": " tracking:",
+      "instant_tps": 0.13438822688099683,
+      "avg_tps": 0.17481548279440592
+    },
+    {
+      "time": 51.72226691246033,
+      "token_num": 9,
+      "token": " advertisers",
+      "instant_tps": 0.16779283878945242,
+      "avg_tps": 0.17400629433416856
+    },
+    {
+      "time": 57.048232078552246,
+      "token_num": 10,
+      "token": " link",
+      "instant_tps": 0.18775939549258805,
+      "avg_tps": 0.17529026992862032
+    },
+    {
+      "time": 63.70018792152405,
+      "token_num": 11,
+      "token": " your",
+      "instant_tps": 0.15033172552649476,
+      "avg_tps": 0.17268394896340866
+    },
+    {
+      "time": 70.2416000366211,
+      "token_num": 12,
+      "token": " phone",
+      "instant_tps": 0.15287219065315905,
+      "avg_tps": 0.17083893296484834
+    },
+    {
+      "time": 77.16379904747009,
+      "token_num": 13,
+      "token": " and",
+      "instant_tps": 0.14446276370163927,
+      "avg_tps": 0.16847278335793942
+    },
+    {
+      "time": 83.56040096282959,
+      "token_num": 14,
+      "token": " computer",
+      "instant_tps": 0.15633300512242346,
+      "avg_tps": 0.16754347560189017
+    },
+    {
+      "time": 89.15083909034729,
+      "token_num": 15,
+      "token": " using",
+      "instant_tps": 0.1788768567310888,
+      "avg_tps": 0.16825416510997382
+    },
+    {
+      "time": 94.43311190605164,
+      "token_num": 16,
+      "token": " shared",
+      "instant_tps": 0.18931244842692938,
+      "avg_tps": 0.1694320951311852
+    },
+    {
+      "time": 99.92813801765442,
+      "token_num": 17,
+      "token": " logins,",
+      "instant_tps": 0.1819827567131107,
+      "avg_tps": 0.17012225322357744
+    },
+    {
+      "time": 107.28902697563171,
+      "token_num": 18,
+      "token": " IP",
+      "instant_tps": 0.13585315655607863,
+      "avg_tps": 0.16777111795494515
+    },
+    {
+      "time": 114.66149497032166,
+      "token_num": 19,
+      "token": " address,",
+      "instant_tps": 0.13563978856473236,
+      "avg_tps": 0.1657051480526907
+    },
+    {
+      "time": 120.47295689582825,
+      "token_num": 20,
+      "token": " and",
+      "instant_tps": 0.17207374199785863,
+      "avg_tps": 0.16601236090929353
+    },
+    {
+      "time": 125.89659595489502,
+      "token_num": 21,
+      "token": " browser",
+      "instant_tps": 0.18437805117733383,
+      "avg_tps": 0.16680355684536277
+    },
+    {
+      "time": 131.5216360092163,
+      "token_num": 22,
+      "token": " fingerprints,",
+      "instant_tps": 0.17777651187244015,
+      "avg_tps": 0.16727285842504547
+    },
+    {
+      "time": 137.63707304000854,
+      "token_num": 23,
+      "token": " then",
+      "instant_tps": 0.16352061103153132,
+      "avg_tps": 0.1671061400246017
+    },
+    {
+      "time": 144.7941451072693,
+      "token_num": 24,
+      "token": " show",
+      "instant_tps": 0.13972194084427242,
+      "avg_tps": 0.1657525584492373
+    },
+    {
+      "time": 152.27164006233215,
+      "token_num": 25,
+      "token": " matching",
+      "instant_tps": 0.13373462717255588,
+      "avg_tps": 0.16418027670659022
+    },
+    {
+      "time": 158.11993503570557,
+      "token_num": 26,
+      "token": " ads",
+      "instant_tps": 0.17099000726756777,
+      "avg_tps": 0.16443214446128412
+    },
+    {
+      "time": 163.41268110275269,
+      "token_num": 27,
+      "token": " on",
+      "instant_tps": 0.18893783819065987,
+      "avg_tps": 0.1652258552873421
+    },
+    {
+      "time": 168.7994520664215,
+      "token_num": 28,
+      "token": " both.",
+      "instant_tps": 0.1856399699828559,
+      "avg_tps": 0.16587731569757808
+    }
+  ]
+}

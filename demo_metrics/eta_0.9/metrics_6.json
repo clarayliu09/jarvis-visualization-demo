@@ -1,0 +1,178 @@
+{
+  "run_summary": {
+    "eta": 0.9,
+    "avg_tps": 0.130512622729045,
+    "completion_time": 183.89025902748108,
+    "quality_score": 0.91
+  },
+  "timed_data": [
+    {
+      "time": 0.08062601089477539,
+      "token_num": 1,
+      "token": " For",
+      "instant_tps": 12.402945264216223,
+      "avg_tps": 12.402945264216223
+    },
+    {
+      "time": 7.430706977844238,
+      "token_num": 2,
+      "token": " a",
+      "instant_tps": 0.13605292302174932,
+      "avg_tps": 0.2691533936088852
+    },
+    {
+      "time": 14.274213075637817,
+      "token_num": 3,
+      "token": " performance-marketing",
+      "instant_tps": 0.14612392912492778,
+      "avg_tps": 0.21016920401168598
+    },
+    {
+      "time": 21.32478904724121,
+      "token_num": 4,
+      "token": " business,",
+      "instant_tps": 0.1418323841949308,
+      "avg_tps": 0.18757512635359364
+    },
+    {
+      "time": 29.18838596343994,
+      "token_num": 5,
+      "token": " value",
+      "instant_tps": 0.12716826798942804,
+      "avg_tps": 0.17130101014365012
+    },
+    {
+      "time": 37.7150399684906,
+      "token_num": 6,
+      "token": " is",
+      "instant_tps": 0.11727929846897296,
+      "avg_tps": 0.15908772746927377
+    },
+    {
+      "time": 45.329915046691895,
+      "token_num": 7,
+      "token": " typically",
+      "instant_tps": 0.1313219179212339,
+      "avg_tps": 0.15442340875313088
+    },
+    {
+      "time": 53.42532706260681,
+      "token_num": 8,
+      "token": " 3-6x",
+      "instant_tps": 0.12352675787644679,
+      "avg_tps": 0.14974171315086474
+    },
+    {
+      "time": 62.572330951690674,
+      "token_num": 9,
+      "token": " the",
+      "instant_tps": 0.10932541541754577,
+      "avg_tps": 0.14383354212820523
+    },
+    {
+      "time": 71.93895506858826,
+      "token_num": 10,
+      "token": " adjusted",
+      "instant_tps": 0.10676205082212911,
+      "avg_tps": 0.1390067452392903
+    },
+    {
+      "time": 81.29458403587341,
+      "token_num": 11,
+      "token": " for",
+      "instant_tps": 0.10688752231376518,
+      "avg_tps": 0.13531036698762067
+    },
+    {
+      "time": 88.8783049583435,
+      "token_num": 12,
+      "token": " client",
+      "instant_tps": 0.13186139234594751,
+      "avg_tps": 0.13501607625870335
+    },
+    {
+      "time": 95.99143195152283,
+      "token_num": 13,
+      "token": " concentration,",
+      "instant_tps": 0.14058514644246983,
+      "avg_tps": 0.1354287537513265
+    },
+    {
+      "time": 105.22824597358704,
+      "token_num": 14,
+      "token": " contract",
+      "instant_tps": 0.108262437417412,
+      "avg_tps": 0.13304412584729475
+    },
+    {
+      "time": 114.10510396957397,
+      "token_num": 15,
+      "token": " stickiness,",
+      "instant_tps": 0.11265247235588102,
+      "avg_tps": 0.13145774797242846
+    },
+    {
+      "time": 121.07974696159363,
+      "token_num": 16,
+      "token": " and",
+      "instant_tps": 0.14337651420211678,
+      "avg_tps": 0.13214431316143388
+    },
+    {
+      "time": 128.30098795890808,
+      "token_num": 17,
+      "token": " the",
+      "instant_tps": 0.13848035266679168,
+      "avg_tps": 0.13250092825041002
+    },
+    {
+      "time": 135.6713171005249,
+      "token_num": 18,
+      "token": " share",
+      "instant_tps": 0.13567915092875094,
+      "avg_tps": 0.13267358484227731
+    },
+    {
+      "time": 143.89905405044556,
+      "token_num": 19,
+      "token": " to",
+      "instant_tps": 0.12154010344358951,
+      "avg_tps": 0.13203700417196154
+    },
+    {
+      "time": 151.46151304244995,
+      "token_num": 20,
+      "token": " retainer",
+      "instant_tps": 0.1322321219932929,
+      "avg_tps": 0.13204674638628905
+    },
+    {
+      "time": 158.484148979187,
+      "token_num": 21,
+      "token": " versus",
+      "instant_tps": 0.14239667398515773,
+      "avg_tps": 0.1325053649545598
+    },
+    {
+      "time": 166.04626393318176,
+      "token_num": 22,
+      "token": " one-off",
+      "instant_tps": 0.13223813788651037,
+      "avg_tps": 0.13249319484148683
+    },
+    {
+      "time": 174.5532190799713,
+      "token_num": 23,
+      "token": " project",
+      "instant_tps": 0.1175508725207504,
+      "avg_tps": 0.13176497185917024
+    },
+    {
+      "time": 183.89025902748108,
+      "token_num": 24,
+      "token": " revenue.",
+      "instant_tps": 0.10710032361666236,
+      "avg_tps": 0.130512622729045
+    }
+  ]
+}

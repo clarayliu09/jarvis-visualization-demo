@@ -1,0 +1,178 @@
+{
+  "run_summary": {
+    "eta": 1.0,
+    "avg_tps": 0.13049037923317425,
+    "completion_time": 183.92160511016846,
+    "quality_score": 1.0
+  },
+  "timed_data": [
+    {
+      "time": 0.05929899215698242,
+      "token_num": 1,
+      "token": " For",
+      "instant_tps": 16.863693017795253,
+      "avg_tps": 16.863693017795253
+    },
+    {
+      "time": 8.529577016830444,
+      "token_num": 2,
+      "token": " a",
+      "instant_tps": 0.11805987915474014,
+      "avg_tps": 0.23447821574899053
+    },
+    {
+      "time": 17.406836986541748,
+      "token_num": 3,
+      "token": " performance-marketing",
+      "instant_tps": 0.11264737130735633,
+      "avg_tps": 0.17234607311595304
+    },
+    {
+      "time": 25.502432107925415,
+      "token_num": 4,
+      "token": " business,",
+      "instant_tps": 0.12352396395894413,
+      "avg_tps": 0.15684778546109396
+    },
+    {
+      "time": 32.98236608505249,
+      "token_num": 5,
+      "token": " value",
+      "instant_tps": 0.1336910196076469,
+      "avg_tps": 0.15159615859900316
+    },
+    {
+      "time": 40.989556074142456,
+      "token_num": 6,
+      "token": " is",
+      "instant_tps": 0.12488775729844423,
+      "avg_tps": 0.1463787504589491
+    },
+    {
+      "time": 48.41534090042114,
+      "token_num": 7,
+      "token": " typically",
+      "instant_tps": 0.1346659004259263,
+      "avg_tps": 0.14458227226773715
+    },
+    {
+      "time": 56.31902098655701,
+      "token_num": 8,
+      "token": " 3-6x",
+      "instant_tps": 0.12652333964707616,
+      "avg_tps": 0.14204792377178482
+    },
+    {
+      "time": 63.60061311721802,
+      "token_num": 9,
+      "token": " EBITDA,",
+      "instant_tps": 0.1373326028231166,
+      "avg_tps": 0.14150806979506164
+    },
+    {
+      "time": 72.31619691848755,
+      "token_num": 10,
+      "token": " adjusted",
+      "instant_tps": 0.11473700704413373,
+      "avg_tps": 0.13828160807836276
+    },
+    {
+      "time": 81.1893219947815,
+      "token_num": 11,
+      "token": " for",
+      "instant_tps": 0.1126998651998797,
+      "avg_tps": 0.13548579702029084
+    },
+    {
+      "time": 88.11260199546814,
+      "token_num": 12,
+      "token": " client",
+      "instant_tps": 0.14444020751736472,
+      "avg_tps": 0.1361893727825356
+    },
+    {
+      "time": 96.57275700569153,
+      "token_num": 13,
+      "token": " concentration,",
+      "instant_tps": 0.11820114392603726,
+      "avg_tps": 0.13461353287484423
+    },
+    {
+      "time": 103.75547695159912,
+      "token_num": 14,
+      "token": " contract",
+      "instant_tps": 0.13922302519531718,
+      "avg_tps": 0.13493263595646962
+    },
+    {
+      "time": 111.18215608596802,
+      "token_num": 15,
+      "token": " stickiness,",
+      "instant_tps": 0.13464968418687148,
+      "avg_tps": 0.13491373551347335
+    },
+    {
+      "time": 120.61924409866333,
+      "token_num": 16,
+      "token": " and",
+      "instant_tps": 0.10596489072208955,
+      "avg_tps": 0.13264881669223882
+    },
+    {
+      "time": 129.72747898101807,
+      "token_num": 17,
+      "token": " the",
+      "instant_tps": 0.1097907567071296,
+      "avg_tps": 0.1310439402163012
+    },
+    {
+      "time": 136.5435779094696,
+      "token_num": 18,
+      "token": " share",
+      "instant_tps": 0.14671148563085443,
+      "avg_tps": 0.1318260461281765
+    },
+    {
+      "time": 143.5363359451294,
+      "token_num": 19,
+      "token": " of",
+      "instant_tps": 0.14300509111004106,
+      "avg_tps": 0.1323706633229321
+    },
+    {
+      "time": 151.28151202201843,
+      "token_num": 20,
+      "token": " retainer",
+      "instant_tps": 0.12911262314409055,
+      "avg_tps": 0.1322038610844204
+    },
+    {
+      "time": 159.44864511489868,
+      "token_num": 21,
+      "token": " versus",
+      "instant_tps": 0.12244198651198135,
+      "avg_tps": 0.1317038472472902
+    },
+    {
+      "time": 166.21699905395508,
+      "token_num": 22,
+      "token": " one-off",
+      "instant_tps": 0.14774641057548094,
+      "avg_tps": 0.13235710020765482
+    },
+    {
+      "time": 175.29587197303772,
+      "token_num": 23,
+      "token": " project",
+      "instant_tps": 0.11014583075594402,
+      "avg_tps": 0.13120674058735185
+    },
+    {
+      "time": 183.92160511016846,
+      "token_num": 24,
+      "token": " revenue.",
+      "instant_tps": 0.11593217458761307,
+      "avg_tps": 0.13049037923317425
+    }
+  ]
+}
