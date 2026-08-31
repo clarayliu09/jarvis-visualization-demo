@@ -11,7 +11,7 @@ The project has two Streamlit applications:
 
 Replays a single run. This was the first replay version I coded
 
-### Multi-run Comparison *recommended*
+### Multi-run Comparison (recommended)
 `demo/compare_runs.py`
 
 Allows up to three runs to be displayed and replayed simultaneously.
