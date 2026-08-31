@@ -1,0 +1,3 @@
+<start_of_turn>user
+Give a narrative structure outline of the picture book "The Water Tower" by Gary Crew.<end_of_turn>
+<start_of_turn>model

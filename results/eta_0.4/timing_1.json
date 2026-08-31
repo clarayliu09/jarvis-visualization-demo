@@ -1,0 +1,147 @@
+{
+  "request_id": "req_0",
+  "prompt_tokens": 17,
+  "generated_tokens": 28,
+  "token_times": [
+    {
+      "token": " and",
+      "recv_time": 1779000000.0,
+      "sent_time": 1779000000.08166
+    },
+    {
+      "token": " ...",
+      "recv_time": 1779000003.308216,
+      "sent_time": 1779000003.366005
+    },
+    {
+      "token": " to",
+      "recv_time": 1779000007.039445,
+      "sent_time": 1779000007.080934
+    },
+    {
+      "token": " to",
+      "recv_time": 1779000010.560277,
+      "sent_time": 1779000010.61941
+    },
+    {
+      "token": " devices",
+      "recv_time": 1779000013.691014,
+      "sent_time": 1779000013.779497
+    },
+    {
+      "token": " through",
+      "recv_time": 1779000016.691593,
+      "sent_time": 1779000016.771266
+    },
+    {
+      "token": " the",
+      "recv_time": 1779000019.718663,
+      "sent_time": 1779000019.79937
+    },
+    {
+      "token": " tracking:",
+      "recv_time": 1779000023.273476,
+      "sent_time": 1779000023.331204
+    },
+    {
+      "token": " a",
+      "recv_time": 1779000026.536681,
+      "sent_time": 1779000026.593968
+    },
+    {
+      "token": " link",
+      "recv_time": 1779000030.236825,
+      "sent_time": 1779000030.321372
+    },
+    {
+      "token": " the",
+      "recv_time": 1779000033.824927,
+      "sent_time": 1779000033.878666
+    },
+    {
+      "token": " phone",
+      "recv_time": 1779000037.477082,
+      "sent_time": 1779000037.527452
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000041.003886,
+      "sent_time": 1779000041.05374
+    },
+    {
+      "token": " computer",
+      "recv_time": 1779000044.259326,
+      "sent_time": 1779000044.312891
+    },
+    {
+      "token": " using",
+      "recv_time": 1779000047.773374,
+      "sent_time": 1779000047.836157
+    },
+    {
+      "token": " shared",
+      "recv_time": 1779000050.838231,
+      "sent_time": 1779000050.916579
+    },
+    {
+      "token": " logins,",
+      "recv_time": 1779000053.710632,
+      "sent_time": 1779000053.799606
+    },
+    {
+      "token": " a",
+      "recv_time": 1779000056.567317,
+      "sent_time": 1779000056.650318
+    },
+    {
+      "token": " is",
+      "recv_time": 1779000059.388994,
+      "sent_time": 1779000059.465645
+    },
+    {
+      "token": " ...",
+      "recv_time": 1779000063.011037,
+      "sent_time": 1779000063.095485
+    },
+    {
+      "token": " a",
+      "recv_time": 1779000066.526461,
+      "sent_time": 1779000066.600316
+    },
+    {
+      "token": " of",
+      "recv_time": 1779000070.33564,
+      "sent_time": 1779000070.403109
+    },
+    {
+      "token": " of",
+      "recv_time": 1779000073.428699,
+      "sent_time": 1779000073.49816
+    },
+    {
+      "token": " a",
+      "recv_time": 1779000076.797825,
+      "sent_time": 1779000076.846986
+    },
+    {
+      "token": " matching",
+      "recv_time": 1779000080.132165,
+      "sent_time": 1779000080.204763
+    },
+    {
+      "token": " ads",
+      "recv_time": 1779000082.980229,
+      "sent_time": 1779000083.048009
+    },
+    {
+      "token": " to",
+      "recv_time": 1779000086.172643,
+      "sent_time": 1779000086.235612
+    },
+    {
+      "token": " both.",
+      "recv_time": 1779000089.648189,
+      "sent_time": 1779000089.731286
+    }
+  ]
+}

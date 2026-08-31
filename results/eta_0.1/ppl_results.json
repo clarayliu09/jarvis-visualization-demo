@@ -1,0 +1,58 @@
+{
+  "weights": "weights/1.1-2b-it",
+  "responses_dir": "results/eta_0.1",
+  "reference_dir": "results/eta_1.0",
+  "per_prompt": [
+    {
+      "ppl": 14.5161,
+      "avg_nll": 2.6753,
+      "response_tokens": 28,
+      "prompt_id": 1,
+      "utility": 0.3028
+    },
+    {
+      "ppl": 14.5161,
+      "avg_nll": 2.6753,
+      "response_tokens": 31,
+      "prompt_id": 2,
+      "utility": 0.2996
+    },
+    {
+      "ppl": 14.5161,
+      "avg_nll": 2.6753,
+      "response_tokens": 29,
+      "prompt_id": 3,
+      "utility": 0.3156
+    },
+    {
+      "ppl": 14.5161,
+      "avg_nll": 2.6753,
+      "response_tokens": 23,
+      "prompt_id": 4,
+      "utility": 0.3154
+    },
+    {
+      "ppl": 14.5161,
+      "avg_nll": 2.6753,
+      "response_tokens": 29,
+      "prompt_id": 5,
+      "utility": 0.3144
+    },
+    {
+      "ppl": 14.5161,
+      "avg_nll": 2.6753,
+      "response_tokens": 24,
+      "prompt_id": 6,
+      "utility": 0.3061
+    },
+    {
+      "ppl": 14.5161,
+      "avg_nll": 2.6753,
+      "response_tokens": 26,
+      "prompt_id": 7,
+      "utility": 0.3152
+    }
+  ],
+  "avg_ppl": 14.5161,
+  "avg_utility": 0.31
+}

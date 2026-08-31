@@ -21,7 +21,7 @@ def strip_prompt(text): # took this from combined_demo.py
   return t.split("<end_of_turn>")[0].replace("\\n", " ").strip()
 
 for i in range(1,8):
-  path = f"../results/eta_1.0/prompt_{i}.txt"
+  path = f"results/eta_1.0/prompt_{i}.txt"
   with open(path, "r") as file:
     prompt = strip_prompt(file.read())
   PROMPTS.append(prompt)
@@ -192,7 +192,7 @@ def toggle_play():
 
       prompt_id = PROMPTS.index(prompt)+1
 
-      metrics = json.load(open(f"../demo_metrics/eta_{eta}/metrics_{prompt_id}.json"))
+      metrics = json.load(open(f"demo_metrics/eta_{eta}/metrics_{prompt_id}.json"))
 
       st.session_state.timed_data = metrics["timed_data"]
       st.session_state.run_summary_data = metrics["run_summary"]
@@ -483,7 +483,7 @@ with st.container(border=True, height=230, key="run_summary"):
     quality_score = summary_data["quality_score"]
 
     # statistics compared to eta1.0 for the same prompt
-    summary1_0 = json.load(open(f"../demo_metrics/eta_1.0/metrics_{prompt_id}.json"))["run_summary"] #metrics for eta1.0
+    summary1_0 = json.load(open(f"demo_metrics/eta_1.0/metrics_{prompt_id}.json"))["run_summary"] #metrics for eta1.0
     #speed_percent = round(100*avg_tps/summary1_0["avg_tps"])
     speed_factor = round(avg_tps/summary1_0["avg_tps"], 2)
     time_diff = round(completion_time-summary1_0["completion_time"],1)

@@ -19,7 +19,7 @@ def strip_prompt(text): # took this from combined_demo.py
   return t.split("<end_of_turn>")[0].replace("\\n", " ").strip()
 
 for i in range(1,8):
-  path = f"../results/eta_1.0/prompt_{i}.txt"
+  path = f"results/eta_1.0/prompt_{i}.txt"
   with open(path, "r") as file:
     prompt = strip_prompt(file.read())
   PROMPTS.append(prompt)
@@ -249,7 +249,7 @@ def load_runs():
 
   # Load all selected eta
   for eta in etas:
-    path = f"../demo_metrics/eta_{eta}/metrics_{prompt_id}.json"
+    path = f"demo_metrics/eta_{eta}/metrics_{prompt_id}.json"
 
     with open(path, "r") as file:
       metrics = json.load(file)
@@ -750,7 +750,7 @@ with st.container(border=True, height="stretch", key="run_summary"):
   if summaries_ready:
     
     # load metrics for eta1.0
-    summary1_0 = json.load(open(f"../demo_metrics/eta_1.0/metrics_{prompt_id}.json"))["run_summary"] 
+    summary1_0 = json.load(open(f"demo_metrics/eta_1.0/metrics_{prompt_id}.json"))["run_summary"] 
 
     stats_col, graph_col = st.columns([1.5,1], gap="small")
 

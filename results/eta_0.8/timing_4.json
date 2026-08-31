@@ -1,0 +1,122 @@
+{
+  "request_id": "req_3",
+  "prompt_tokens": 16,
+  "generated_tokens": 23,
+  "token_times": [
+    {
+      "token": " A",
+      "recv_time": 1779000900.0,
+      "sent_time": 1779000900.041873
+    },
+    {
+      "token": " segment",
+      "recv_time": 1779000906.500354,
+      "sent_time": 1779000906.585993
+    },
+    {
+      "token": " is",
+      "recv_time": 1779000911.852592,
+      "sent_time": 1779000911.894196
+    },
+    {
+      "token": " well-segmented",
+      "recv_time": 1779000917.629579,
+      "sent_time": 1779000917.692905
+    },
+    {
+      "token": " when",
+      "recv_time": 1779000924.679543,
+      "sent_time": 1779000924.769329
+    },
+    {
+      "token": " it",
+      "recv_time": 1779000930.01594,
+      "sent_time": 1779000930.094255
+    },
+    {
+      "token": " is",
+      "recv_time": 1779000936.97784,
+      "sent_time": 1779000937.032544
+    },
+    {
+      "token": " measurable,",
+      "recv_time": 1779000944.087554,
+      "sent_time": 1779000944.157563
+    },
+    {
+      "token": " substantial,",
+      "recv_time": 1779000950.952106,
+      "sent_time": 1779000951.004881
+    },
+    {
+      "token": " accessible,",
+      "recv_time": 1779000956.603375,
+      "sent_time": 1779000956.645924
+    },
+    {
+      "token": " differentiable,",
+      "recv_time": 1779000962.296992,
+      "sent_time": 1779000962.361261
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000967.938284,
+      "sent_time": 1779000967.984788
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000973.649551,
+      "sent_time": 1779000973.712718
+    },
+    {
+      "token": " if",
+      "recv_time": 1779000979.575836,
+      "sent_time": 1779000979.622713
+    },
+    {
+      "token": " two",
+      "recv_time": 1779000986.464662,
+      "sent_time": 1779000986.518864
+    },
+    {
+      "token": " segments",
+      "recv_time": 1779000993.804458,
+      "sent_time": 1779000993.891187
+    },
+    {
+      "token": " respond",
+      "recv_time": 1779001000.728749,
+      "sent_time": 1779001000.778783
+    },
+    {
+      "token": " identically",
+      "recv_time": 1779001007.913339,
+      "sent_time": 1779001007.968297
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001015.275566,
+      "sent_time": 1779001015.322078
+    },
+    {
+      "token": " your",
+      "recv_time": 1779001022.249698,
+      "sent_time": 1779001022.326618
+    },
+    {
+      "token": " offer,",
+      "recv_time": 1779001027.950866,
+      "sent_time": 1779001028.039223
+    },
+    {
+      "token": " merge",
+      "recv_time": 1779001034.714797,
+      "sent_time": 1779001034.791623
+    },
+    {
+      "token": " them.",
+      "recv_time": 1779001041.249971,
+      "sent_time": 1779001041.295879
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "request_id": "req_1",
+  "prompt_tokens": 35,
+  "generated_tokens": 31,
+  "token_times": [
+    {
+      "token": " Product",
+      "recv_time": 1779000300.0,
+      "sent_time": 1779000300.079684
+    },
+    {
+      "token": " Launch",
+      "recv_time": 1779000304.258944,
+      "sent_time": 1779000304.343122
+    },
+    {
+      "token": " Formula",
+      "recv_time": 1779000308.345811,
+      "sent_time": 1779000308.400456
+    },
+    {
+      "token": " to",
+      "recv_time": 1779000312.092748,
+      "sent_time": 1779000312.173037
+    },
+    {
+      "token": " ...",
+      "recv_time": 1779000315.565127,
+      "sent_time": 1779000315.649977
+    },
+    {
+      "token": " growth",
+      "recv_time": 1779000318.644918,
+      "sent_time": 1779000318.721764
+    },
+    {
+      "token": " ...",
+      "recv_time": 1779000322.825009,
+      "sent_time": 1779000322.865884
+    },
+    {
+      "token": " build",
+      "recv_time": 1779000326.313724,
+      "sent_time": 1779000326.399479
+    },
+    {
+      "token": " anticipation",
+      "recv_time": 1779000329.760687,
+      "sent_time": 1779000329.839255
+    },
+    {
+      "token": " with",
+      "recv_time": 1779000333.317639,
+      "sent_time": 1779000333.364365
+    },
+    {
+      "token": " to",
+      "recv_time": 1779000337.112913,
+      "sent_time": 1779000337.179338
+    },
+    {
+      "token": " pre-launch",
+      "recv_time": 1779000341.364358,
+      "sent_time": 1779000341.407877
+    },
+    {
+      "token": " content",
+      "recv_time": 1779000344.772074,
+      "sent_time": 1779000344.828809
+    },
+    {
+      "token": " sequence,",
+      "recv_time": 1779000348.415764,
+      "sent_time": 1779000348.462849
+    },
+    {
+      "token": " warm",
+      "recv_time": 1779000352.309654,
+      "sent_time": 1779000352.393595
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000355.456996,
+      "sent_time": 1779000355.540149
+    },
+    {
+      "token": " client's",
+      "recv_time": 1779000359.49617,
+      "sent_time": 1779000359.545275
+    },
+    {
+      "token": " list",
+      "recv_time": 1779000362.974981,
+      "sent_time": 1779000363.028166
+    },
+    {
+      "token": " before",
+      "recv_time": 1779000366.738299,
+      "sent_time": 1779000366.824247
+    },
+    {
+      "token": " the",
+      "recv_time": 1779000369.803341,
+      "sent_time": 1779000369.868493
+    },
+    {
+      "token": " offer,",
+      "recv_time": 1779000373.180281,
+      "sent_time": 1779000373.263222
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000377.142016,
+      "sent_time": 1779000377.22197
+    },
+    {
+      "token": " use",
+      "recv_time": 1779000381.291353,
+      "sent_time": 1779000381.369108
+    },
+    {
+      "token": " scarcity",
+      "recv_time": 1779000384.360894,
+      "sent_time": 1779000384.428752
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000387.670513,
+      "sent_time": 1779000387.734859
+    },
+    {
+      "token": " deadlines",
+      "recv_time": 1779000391.124889,
+      "sent_time": 1779000391.21119
+    },
+    {
+      "token": " to",
+      "recv_time": 1779000394.255417,
+      "sent_time": 1779000394.329021
+    },
+    {
+      "token": " drive",
+      "recv_time": 1779000397.541676,
+      "sent_time": 1779000397.627795
+    },
+    {
+      "token": " conversions",
+      "recv_time": 1779000401.15279,
+      "sent_time": 1779000401.239198
+    },
+    {
+      "token": " of",
+      "recv_time": 1779000404.734247,
+      "sent_time": 1779000404.80429
+    },
+    {
+      "token": " cart-open.",
+      "recv_time": 1779000407.921536,
+      "sent_time": 1779000407.98611
+    }
+  ]
+}

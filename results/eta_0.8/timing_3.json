@@ -1,0 +1,152 @@
+{
+  "request_id": "req_2",
+  "prompt_tokens": 47,
+  "generated_tokens": 29,
+  "token_times": [
+    {
+      "token": " Jason",
+      "recv_time": 1779000600.0,
+      "sent_time": 1779000600.052902
+    },
+    {
+      "token": " Voorhees",
+      "recv_time": 1779000606.586954,
+      "sent_time": 1779000606.637386
+    },
+    {
+      "token": " ...",
+      "recv_time": 1779000612.725747,
+      "sent_time": 1779000612.774079
+    },
+    {
+      "token": " profile:",
+      "recv_time": 1779000618.69419,
+      "sent_time": 1779000618.759556
+    },
+    {
+      "token": " Relentless",
+      "recv_time": 1779000625.332789,
+      "sent_time": 1779000625.420806
+    },
+    {
+      "token": " Pursuit",
+      "recv_time": 1779000630.917582,
+      "sent_time": 1779000630.992058
+    },
+    {
+      "token": " ignores",
+      "recv_time": 1779000636.942451,
+      "sent_time": 1779000637.020756
+    },
+    {
+      "token": " difficult",
+      "recv_time": 1779000643.92131,
+      "sent_time": 1779000643.972441
+    },
+    {
+      "token": " terrain,",
+      "recv_time": 1779000651.183347,
+      "sent_time": 1779000651.244079
+    },
+    {
+      "token": " Undying",
+      "recv_time": 1779000656.491422,
+      "sent_time": 1779000656.557134
+    },
+    {
+      "token": " returns",
+      "recv_time": 1779000662.186799,
+      "sent_time": 1779000662.270724
+    },
+    {
+      "token": " to",
+      "recv_time": 1779000668.134759,
+      "sent_time": 1779000668.177908
+    },
+    {
+      "token": " play",
+      "recv_time": 1779000673.833244,
+      "sent_time": 1779000673.918108
+    },
+    {
+      "token": " once",
+      "recv_time": 1779000679.491183,
+      "sent_time": 1779000679.563573
+    },
+    {
+      "token": " per",
+      "recv_time": 1779000685.014779,
+      "sent_time": 1779000685.094336
+    },
+    {
+      "token": " game,",
+      "recv_time": 1779000691.277562,
+      "sent_time": 1779000691.338721
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000696.753671,
+      "sent_time": 1779000696.811128
+    },
+    {
+      "token": " Crystal",
+      "recv_time": 1779000703.683851,
+      "sent_time": 1779000703.731102
+    },
+    {
+      "token": " Lake",
+      "recv_time": 1779000709.69196,
+      "sent_time": 1779000709.774615
+    },
+    {
+      "token": " Dread",
+      "recv_time": 1779000715.643424,
+      "sent_time": 1779000715.708547
+    },
+    {
+      "token": " lowers",
+      "recv_time": 1779000721.098076,
+      "sent_time": 1779000721.182438
+    },
+    {
+      "token": " nearby",
+      "recv_time": 1779000728.205191,
+      "sent_time": 1779000728.275396
+    },
+    {
+      "token": " morale.",
+      "recv_time": 1779000734.749463,
+      "sent_time": 1779000734.835702
+    },
+    {
+      "token": " Weapons:",
+      "recv_time": 1779000741.905317,
+      "sent_time": 1779000741.976538
+    },
+    {
+      "token": " machete,",
+      "recv_time": 1779000747.234308,
+      "sent_time": 1779000747.316856
+    },
+    {
+      "token": " axe,",
+      "recv_time": 1779000753.333955,
+      "sent_time": 1779000753.421298
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000760.062304,
+      "sent_time": 1779000760.145915
+    },
+    {
+      "token": " harpoon",
+      "recv_time": 1779000765.770866,
+      "sent_time": 1779000765.832138
+    },
+    {
+      "token": " gun.",
+      "recv_time": 1779000773.21066,
+      "sent_time": 1779000773.25602
+    }
+  ]
+}

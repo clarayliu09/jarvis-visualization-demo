@@ -1,0 +1,137 @@
+{
+  "request_id": "req_6",
+  "prompt_tokens": 52,
+  "generated_tokens": 26,
+  "token_times": [
+    {
+      "token": " Day",
+      "recv_time": 1779001800.0,
+      "sent_time": 1779001800.082335
+    },
+    {
+      "token": " 1",
+      "recv_time": 1779001806.599553,
+      "sent_time": 1779001806.671126
+    },
+    {
+      "token": " pescatarian,",
+      "recv_time": 1779001813.992937,
+      "sent_time": 1779001814.064399
+    },
+    {
+      "token": " ~1900",
+      "recv_time": 1779001819.32099,
+      "sent_time": 1779001819.400349
+    },
+    {
+      "token": " kcal,",
+      "recv_time": 1779001826.082225,
+      "sent_time": 1779001826.127551
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001833.325827,
+      "sent_time": 1779001833.377399
+    },
+    {
+      "token": " g",
+      "recv_time": 1779001840.705593,
+      "sent_time": 1779001840.790577
+    },
+    {
+      "token": " protein:",
+      "recv_time": 1779001846.926293,
+      "sent_time": 1779001847.011112
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001853.390379,
+      "sent_time": 1779001853.465209
+    },
+    {
+      "token": " omelette",
+      "recv_time": 1779001859.136527,
+      "sent_time": 1779001859.176856
+    },
+    {
+      "token": " breakfast,",
+      "recv_time": 1779001865.049405,
+      "sent_time": 1779001865.132663
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001872.383259,
+      "sent_time": 1779001872.42452
+    },
+    {
+      "token": " tuna",
+      "recv_time": 1779001879.158977,
+      "sent_time": 1779001879.218014
+    },
+    {
+      "token": " with",
+      "recv_time": 1779001886.264893,
+      "sent_time": 1779001886.333425
+    },
+    {
+      "token": " spinach",
+      "recv_time": 1779001893.004796,
+      "sent_time": 1779001893.062687
+    },
+    {
+      "token": " lunch,",
+      "recv_time": 1779001899.976474,
+      "sent_time": 1779001900.041802
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001905.308616,
+      "sent_time": 1779001905.386781
+    },
+    {
+      "token": " baked",
+      "recv_time": 1779001911.458302,
+      "sent_time": 1779001911.503628
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001917.41931,
+      "sent_time": 1779001917.494891
+    },
+    {
+      "token": " with",
+      "recv_time": 1779001924.460659,
+      "sent_time": 1779001924.544682
+    },
+    {
+      "token": " shrimp",
+      "recv_time": 1779001930.62074,
+      "sent_time": 1779001930.69215
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001937.196642,
+      "sent_time": 1779001937.243892
+    },
+    {
+      "token": " roasted",
+      "recv_time": 1779001943.271588,
+      "sent_time": 1779001943.356608
+    },
+    {
+      "token": " vegetables",
+      "recv_time": 1779001950.732919,
+      "sent_time": 1779001950.801338
+    },
+    {
+      "token": " for",
+      "recv_time": 1779001956.797131,
+      "sent_time": 1779001956.875612
+    },
+    {
+      "token": " dinner.",
+      "recv_time": 1779001962.368049,
+      "sent_time": 1779001962.416842
+    }
+  ]
+}

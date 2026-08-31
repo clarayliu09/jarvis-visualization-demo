@@ -1,0 +1,3 @@
+<start_of_turn>user
+Please give me a 5 day meal plan that follows a pescatarian diet, heavy in fish and vegetables and low in pulses. Ensure each day's meals add up to a calorie range of 1800-2000 and hit a minimum protein level of 180g per day in total.<end_of_turn>
+<start_of_turn>model

@@ -1,0 +1,152 @@
+{
+  "request_id": "req_4",
+  "prompt_tokens": 21,
+  "generated_tokens": 29,
+  "token_times": [
+    {
+      "token": " The",
+      "recv_time": 1779001200.0,
+      "sent_time": 1779001200.05438
+    },
+    {
+      "token": " Water",
+      "recv_time": 1779001203.007958,
+      "sent_time": 1779001203.093559
+    },
+    {
+      "token": " of",
+      "recv_time": 1779001206.204191,
+      "sent_time": 1779001206.261832
+    },
+    {
+      "token": " narrative:",
+      "recv_time": 1779001209.405207,
+      "sent_time": 1779001209.482346
+    },
+    {
+      "token": " orientation",
+      "recv_time": 1779001213.146631,
+      "sent_time": 1779001213.211138
+    },
+    {
+      "token": " as",
+      "recv_time": 1779001216.317817,
+      "sent_time": 1779001216.376731
+    },
+    {
+      "token": " is",
+      "recv_time": 1779001219.45903,
+      "sent_time": 1779001219.511878
+    },
+    {
+      "token": " boys",
+      "recv_time": 1779001222.800851,
+      "sent_time": 1779001222.875467
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001225.796008,
+      "sent_time": 1779001225.868137
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001228.803653,
+      "sent_time": 1779001228.871992
+    },
+    {
+      "token": " tower",
+      "recv_time": 1779001231.805764,
+      "sent_time": 1779001231.865366
+    },
+    {
+      "token": " in",
+      "recv_time": 1779001235.553401,
+      "sent_time": 1779001235.604848
+    },
+    {
+      "token": " Preston,",
+      "recv_time": 1779001239.174408,
+      "sent_time": 1779001239.22486
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001242.282481,
+      "sent_time": 1779001242.364056
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001246.189137,
+      "sent_time": 1779001246.243841
+    },
+    {
+      "token": " as",
+      "recv_time": 1779001249.324065,
+      "sent_time": 1779001249.388706
+    },
+    {
+      "token": " strange",
+      "recv_time": 1779001252.910312,
+      "sent_time": 1779001252.978801
+    },
+    {
+      "token": " shadows",
+      "recv_time": 1779001256.963237,
+      "sent_time": 1779001257.012517
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001260.92029,
+      "sent_time": 1779001261.00886
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001264.240005,
+      "sent_time": 1779001264.311528
+    },
+    {
+      "token": " of",
+      "recv_time": 1779001268.229028,
+      "sent_time": 1779001268.286323
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001271.277196,
+      "sent_time": 1779001271.355268
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001274.617154,
+      "sent_time": 1779001274.69275
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001278.229592,
+      "sent_time": 1779001278.308956
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001281.532403,
+      "sent_time": 1779001281.607728
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001285.092454,
+      "sent_time": 1779001285.153528
+    },
+    {
+      "token": " ambiguous,",
+      "recv_time": 1779001288.212053,
+      "sent_time": 1779001288.277272
+    },
+    {
+      "token": " unsettling",
+      "recv_time": 1779001291.648229,
+      "sent_time": 1779001291.693983
+    },
+    {
+      "token": " is",
+      "recv_time": 1779001294.883784,
+      "sent_time": 1779001294.960803
+    }
+  ]
+}

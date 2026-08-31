@@ -1,0 +1,147 @@
+{
+  "request_id": "req_0",
+  "prompt_tokens": 17,
+  "generated_tokens": 28,
+  "token_times": [
+    {
+      "token": " the",
+      "recv_time": 1779000000.0,
+      "sent_time": 1779000000.077779
+    },
+    {
+      "token": " follow",
+      "recv_time": 1779000003.959481,
+      "sent_time": 1779000004.026139
+    },
+    {
+      "token": " you",
+      "recv_time": 1779000008.823264,
+      "sent_time": 1779000008.912683
+    },
+    {
+      "token": " the",
+      "recv_time": 1779000013.928356,
+      "sent_time": 1779000014.007683
+    },
+    {
+      "token": " devices",
+      "recv_time": 1779000018.42536,
+      "sent_time": 1779000018.50827
+    },
+    {
+      "token": " of",
+      "recv_time": 1779000023.234085,
+      "sent_time": 1779000023.312268
+    },
+    {
+      "token": " is",
+      "recv_time": 1779000027.822431,
+      "sent_time": 1779000027.888788
+    },
+    {
+      "token": " tracking:",
+      "recv_time": 1779000032.125938,
+      "sent_time": 1779000032.169451
+    },
+    {
+      "token": " advertisers",
+      "recv_time": 1779000036.50171,
+      "sent_time": 1779000036.55024
+    },
+    {
+      "token": " link",
+      "recv_time": 1779000040.251195,
+      "sent_time": 1779000040.298483
+    },
+    {
+      "token": " your",
+      "recv_time": 1779000044.736809,
+      "sent_time": 1779000044.818024
+    },
+    {
+      "token": " phone",
+      "recv_time": 1779000048.474636,
+      "sent_time": 1779000048.5193
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000052.968944,
+      "sent_time": 1779000053.019999
+    },
+    {
+      "token": " computer",
+      "recv_time": 1779000057.820491,
+      "sent_time": 1779000057.862438
+    },
+    {
+      "token": " ...",
+      "recv_time": 1779000061.707435,
+      "sent_time": 1779000061.757829
+    },
+    {
+      "token": " shared",
+      "recv_time": 1779000066.557494,
+      "sent_time": 1779000066.599484
+    },
+    {
+      "token": " logins,",
+      "recv_time": 1779000070.645225,
+      "sent_time": 1779000070.729497
+    },
+    {
+      "token": " IP",
+      "recv_time": 1779000074.713966,
+      "sent_time": 1779000074.784849
+    },
+    {
+      "token": " address,",
+      "recv_time": 1779000078.526359,
+      "sent_time": 1779000078.572448
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000082.607251,
+      "sent_time": 1779000082.6801
+    },
+    {
+      "token": " browser",
+      "recv_time": 1779000087.055867,
+      "sent_time": 1779000087.114599
+    },
+    {
+      "token": " ...",
+      "recv_time": 1779000091.272821,
+      "sent_time": 1779000091.336599
+    },
+    {
+      "token": " and",
+      "recv_time": 1779000096.053864,
+      "sent_time": 1779000096.095433
+    },
+    {
+      "token": " show",
+      "recv_time": 1779000101.175424,
+      "sent_time": 1779000101.221786
+    },
+    {
+      "token": " matching",
+      "recv_time": 1779000105.666473,
+      "sent_time": 1779000105.741271
+    },
+    {
+      "token": " ads",
+      "recv_time": 1779000110.794533,
+      "sent_time": 1779000110.879395
+    },
+    {
+      "token": " on",
+      "recv_time": 1779000115.517556,
+      "sent_time": 1779000115.581935
+    },
+    {
+      "token": " both.",
+      "recv_time": 1779000119.899642,
+      "sent_time": 1779000119.961377
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+<start_of_turn>user
+Summarize the main ideas of Jeff Walker's Product Launch Formula into bullet points as it pertains to a growth marketing agency implementing these strategies and tactics for their clients<end_of_turn>
+<start_of_turn>model

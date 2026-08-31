@@ -1,0 +1,127 @@
+{
+  "request_id": "req_5",
+  "prompt_tokens": 15,
+  "generated_tokens": 24,
+  "token_times": [
+    {
+      "token": " For",
+      "recv_time": 1779001500.0,
+      "sent_time": 1779001500.072547
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001506.434987,
+      "sent_time": 1779001506.476856
+    },
+    {
+      "token": " performance-marketing",
+      "recv_time": 1779001512.012453,
+      "sent_time": 1779001512.057433
+    },
+    {
+      "token": " business,",
+      "recv_time": 1779001519.200289,
+      "sent_time": 1779001519.258529
+    },
+    {
+      "token": " value",
+      "recv_time": 1779001525.646924,
+      "sent_time": 1779001525.711819
+    },
+    {
+      "token": " is",
+      "recv_time": 1779001531.6427,
+      "sent_time": 1779001531.695342
+    },
+    {
+      "token": " typically",
+      "recv_time": 1779001538.027692,
+      "sent_time": 1779001538.086075
+    },
+    {
+      "token": " 3-6x",
+      "recv_time": 1779001544.548211,
+      "sent_time": 1779001544.604849
+    },
+    {
+      "token": " EBITDA,",
+      "recv_time": 1779001551.669694,
+      "sent_time": 1779001551.712933
+    },
+    {
+      "token": " adjusted",
+      "recv_time": 1779001558.479993,
+      "sent_time": 1779001558.552728
+    },
+    {
+      "token": " for",
+      "recv_time": 1779001563.92619,
+      "sent_time": 1779001563.977644
+    },
+    {
+      "token": " client",
+      "recv_time": 1779001570.623353,
+      "sent_time": 1779001570.683322
+    },
+    {
+      "token": " concentration,",
+      "recv_time": 1779001577.649698,
+      "sent_time": 1779001577.720742
+    },
+    {
+      "token": " of",
+      "recv_time": 1779001584.992079,
+      "sent_time": 1779001585.055432
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001591.936783,
+      "sent_time": 1779001591.991365
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001598.412204,
+      "sent_time": 1779001598.489076
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001603.739232,
+      "sent_time": 1779001603.792961
+    },
+    {
+      "token": " share",
+      "recv_time": 1779001610.15466,
+      "sent_time": 1779001610.215521
+    },
+    {
+      "token": " of",
+      "recv_time": 1779001616.271141,
+      "sent_time": 1779001616.316537
+    },
+    {
+      "token": " retainer",
+      "recv_time": 1779001622.21745,
+      "sent_time": 1779001622.300299
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001629.441293,
+      "sent_time": 1779001629.517303
+    },
+    {
+      "token": " one-off",
+      "recv_time": 1779001636.212969,
+      "sent_time": 1779001636.270712
+    },
+    {
+      "token": " project",
+      "recv_time": 1779001642.516866,
+      "sent_time": 1779001642.584323
+    },
+    {
+      "token": " revenue.",
+      "recv_time": 1779001648.261638,
+      "sent_time": 1779001648.315343
+    }
+  ]
+}

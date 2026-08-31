@@ -1,7 +1,7 @@
 # JARVIS Visualization Demo
 An interactive visualization and replay dashboard for analyzing token generation performance.
 
-This project was developed during my internship at Northeastern University. The demo uses results provided by the research team that are not included in this repository.
+This project was developed during my internship at Northeastern University. The demo uses data processed from the results provided by the research team.
 
 ## Features
 The project has two Streamlit applications:
@@ -9,12 +9,12 @@ The project has two Streamlit applications:
 ### Single-run Replay
 `demo/run_replay.py`
 
-Replays a single run. 
+Replays a single run. This was the first replay version I coded
 
-### Multi-run Comparison
+### Multi-run Comparison *recommended*
 `demo/compare_runs.py`
 
-Allows up to three runs to be displayed and replayed simultaneously
+Allows up to three runs to be displayed and replayed simultaneously.
 
 ## Requirements
 The demo requires the following Python packages:
@@ -25,7 +25,7 @@ The demo requires the following Python packages:
 Python's `json` and `time` libraries are also used
 
 ## Data organization
-The code assumes that the processed demo data is stored in the following structure:
+The code assumes that the data is stored in the following structure:
 ```bash
 demo_metrics/
 ├── eta_0.1/
@@ -35,6 +35,7 @@ demo_metrics/
 ├── eta_0.2/
 ├── ...
 └── eta_1.0/
+results/
 ```
 Each eta folder contains the processed metrics for that eta. Each metrics_N file corresponds to the metrics for prompt N
 

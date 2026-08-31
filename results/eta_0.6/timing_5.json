@@ -1,0 +1,152 @@
+{
+  "request_id": "req_4",
+  "prompt_tokens": 21,
+  "generated_tokens": 29,
+  "token_times": [
+    {
+      "token": " The",
+      "recv_time": 1779001200.0,
+      "sent_time": 1779001200.042968
+    },
+    {
+      "token": " Water",
+      "recv_time": 1779001203.866962,
+      "sent_time": 1779001203.955081
+    },
+    {
+      "token": " Tower",
+      "recv_time": 1779001208.645552,
+      "sent_time": 1779001208.696255
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001213.734933,
+      "sent_time": 1779001213.781362
+    },
+    {
+      "token": " orientation",
+      "recv_time": 1779001218.600996,
+      "sent_time": 1779001218.649061
+    },
+    {
+      "token": " as",
+      "recv_time": 1779001222.766384,
+      "sent_time": 1779001222.833266
+    },
+    {
+      "token": " two",
+      "recv_time": 1779001226.938318,
+      "sent_time": 1779001226.985193
+    },
+    {
+      "token": " boys",
+      "recv_time": 1779001230.822478,
+      "sent_time": 1779001230.862805
+    },
+    {
+      "token": " visit",
+      "recv_time": 1779001235.876677,
+      "sent_time": 1779001235.944228
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001239.644893,
+      "sent_time": 1779001239.728281
+    },
+    {
+      "token": " tower",
+      "recv_time": 1779001244.140409,
+      "sent_time": 1779001244.216711
+    },
+    {
+      "token": " in",
+      "recv_time": 1779001249.24108,
+      "sent_time": 1779001249.329509
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001253.83678,
+      "sent_time": 1779001253.895636
+    },
+    {
+      "token": " rising",
+      "recv_time": 1779001258.294974,
+      "sent_time": 1779001258.379555
+    },
+    {
+      "token": " unease",
+      "recv_time": 1779001262.108379,
+      "sent_time": 1779001262.193106
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001267.03613,
+      "sent_time": 1779001267.099036
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001271.492619,
+      "sent_time": 1779001271.562777
+    },
+    {
+      "token": " shadows",
+      "recv_time": 1779001275.198096,
+      "sent_time": 1779001275.240253
+    },
+    {
+      "token": " appear,",
+      "recv_time": 1779001279.908682,
+      "sent_time": 1779001279.96114
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001284.319062,
+      "sent_time": 1779001284.385007
+    },
+    {
+      "token": " climax",
+      "recv_time": 1779001289.25609,
+      "sent_time": 1779001289.300159
+    },
+    {
+      "token": " at",
+      "recv_time": 1779001294.363638,
+      "sent_time": 1779001294.425596
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001299.315856,
+      "sent_time": 1779001299.383972
+    },
+    {
+      "token": " tower,",
+      "recv_time": 1779001304.465435,
+      "sent_time": 1779001304.542968
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001308.282438,
+      "sent_time": 1779001308.369628
+    },
+    {
+      "token": " an",
+      "recv_time": 1779001313.455464,
+      "sent_time": 1779001313.500952
+    },
+    {
+      "token": " ambiguous,",
+      "recv_time": 1779001317.332766,
+      "sent_time": 1779001317.376194
+    },
+    {
+      "token": " unsettling",
+      "recv_time": 1779001321.197493,
+      "sent_time": 1779001321.264426
+    },
+    {
+      "token": " resolution.",
+      "recv_time": 1779001325.701746,
+      "sent_time": 1779001325.789466
+    }
+  ]
+}

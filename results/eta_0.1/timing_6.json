@@ -1,0 +1,127 @@
+{
+  "request_id": "req_5",
+  "prompt_tokens": 15,
+  "generated_tokens": 24,
+  "token_times": [
+    {
+      "token": " a",
+      "recv_time": 1779001500.0,
+      "sent_time": 1779001500.058171
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001502.312327,
+      "sent_time": 1779001502.389064
+    },
+    {
+      "token": " is",
+      "recv_time": 1779001504.496463,
+      "sent_time": 1779001504.575489
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001507.156762,
+      "sent_time": 1779001507.203641
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001509.761535,
+      "sent_time": 1779001509.837811
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001511.856772,
+      "sent_time": 1779001511.908383
+    },
+    {
+      "token": " typically",
+      "recv_time": 1779001514.554319,
+      "sent_time": 1779001514.604519
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001517.178458,
+      "sent_time": 1779001517.25065
+    },
+    {
+      "token": " EBITDA,",
+      "recv_time": 1779001519.188557,
+      "sent_time": 1779001519.27759
+    },
+    {
+      "token": " ...",
+      "recv_time": 1779001521.848474,
+      "sent_time": 1779001521.915758
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001524.163732,
+      "sent_time": 1779001524.24697
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001526.207061,
+      "sent_time": 1779001526.256953
+    },
+    {
+      "token": " concentration,",
+      "recv_time": 1779001528.270095,
+      "sent_time": 1779001528.313206
+    },
+    {
+      "token": " contract",
+      "recv_time": 1779001530.463905,
+      "sent_time": 1779001530.53414
+    },
+    {
+      "token": " stickiness,",
+      "recv_time": 1779001532.619935,
+      "sent_time": 1779001532.661597
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001534.717871,
+      "sent_time": 1779001534.771309
+    },
+    {
+      "token": " is",
+      "recv_time": 1779001537.202525,
+      "sent_time": 1779001537.247078
+    },
+    {
+      "token": " of",
+      "recv_time": 1779001539.325836,
+      "sent_time": 1779001539.382113
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001541.874664,
+      "sent_time": 1779001541.934872
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001544.001317,
+      "sent_time": 1779001544.077217
+    },
+    {
+      "token": " versus",
+      "recv_time": 1779001546.081206,
+      "sent_time": 1779001546.13177
+    },
+    {
+      "token": " one-off",
+      "recv_time": 1779001548.401935,
+      "sent_time": 1779001548.482236
+    },
+    {
+      "token": " project",
+      "recv_time": 1779001550.950846,
+      "sent_time": 1779001550.992756
+    },
+    {
+      "token": " revenue.",
+      "recv_time": 1779001553.241846,
+      "sent_time": 1779001553.326807
+    }
+  ]
+}

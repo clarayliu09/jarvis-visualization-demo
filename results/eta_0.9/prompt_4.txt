@@ -1,0 +1,3 @@
+<start_of_turn>user
+How to tell if a customer segment is well segmented?<end_of_turn>
+<start_of_turn>model

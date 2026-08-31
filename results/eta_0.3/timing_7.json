@@ -1,0 +1,137 @@
+{
+  "request_id": "req_6",
+  "prompt_tokens": 52,
+  "generated_tokens": 26,
+  "token_times": [
+    {
+      "token": " Day",
+      "recv_time": 1779001800.0,
+      "sent_time": 1779001800.051977
+    },
+    {
+      "token": " 1",
+      "recv_time": 1779001803.69724,
+      "sent_time": 1779001803.744855
+    },
+    {
+      "token": " pescatarian,",
+      "recv_time": 1779001807.277995,
+      "sent_time": 1779001807.358536
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001810.34925,
+      "sent_time": 1779001810.435609
+    },
+    {
+      "token": " kcal,",
+      "recv_time": 1779001813.5597,
+      "sent_time": 1779001813.616959
+    },
+    {
+      "token": " 185",
+      "recv_time": 1779001816.897485,
+      "sent_time": 1779001816.941569
+    },
+    {
+      "token": " ...",
+      "recv_time": 1779001820.88488,
+      "sent_time": 1779001820.972841
+    },
+    {
+      "token": " protein:",
+      "recv_time": 1779001823.905317,
+      "sent_time": 1779001823.971954
+    },
+    {
+      "token": " smoked-salmon",
+      "recv_time": 1779001827.524835,
+      "sent_time": 1779001827.596169
+    },
+    {
+      "token": " omelette",
+      "recv_time": 1779001831.420141,
+      "sent_time": 1779001831.478521
+    },
+    {
+      "token": " of",
+      "recv_time": 1779001835.317422,
+      "sent_time": 1779001835.370646
+    },
+    {
+      "token": " grilled",
+      "recv_time": 1779001838.368092,
+      "sent_time": 1779001838.416017
+    },
+    {
+      "token": " tuna",
+      "recv_time": 1779001842.10788,
+      "sent_time": 1779001842.167723
+    },
+    {
+      "token": " with",
+      "recv_time": 1779001845.223505,
+      "sent_time": 1779001845.299191
+    },
+    {
+      "token": " spinach",
+      "recv_time": 1779001848.311936,
+      "sent_time": 1779001848.401283
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001851.688613,
+      "sent_time": 1779001851.739071
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001855.306901,
+      "sent_time": 1779001855.37561
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001858.751142,
+      "sent_time": 1779001858.835147
+    },
+    {
+      "token": " is",
+      "recv_time": 1779001862.36385,
+      "sent_time": 1779001862.452585
+    },
+    {
+      "token": " is",
+      "recv_time": 1779001865.479956,
+      "sent_time": 1779001865.548462
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001868.600783,
+      "sent_time": 1779001868.678691
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001872.134651,
+      "sent_time": 1779001872.212593
+    },
+    {
+      "token": " of",
+      "recv_time": 1779001875.982137,
+      "sent_time": 1779001876.024163
+    },
+    {
+      "token": " vegetables",
+      "recv_time": 1779001878.90958,
+      "sent_time": 1779001878.99885
+    },
+    {
+      "token": " of",
+      "recv_time": 1779001882.561112,
+      "sent_time": 1779001882.642661
+    },
+    {
+      "token": " dinner.",
+      "recv_time": 1779001885.543598,
+      "sent_time": 1779001885.604074
+    }
+  ]
+}

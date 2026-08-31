@@ -1,0 +1,12 @@
+{
+  "algorithm": "uniform",
+  "method": "topk",
+  "R_t": 5.0,
+  "t_0": 0.2,
+  "eta_min": 0.1,
+  "default_eta": 0.4,
+  "total_slots": 30,
+  "avg_D_act": 0.11254,
+  "avg_excess_delay": -0.08746,
+  "deadline_met": true
+}

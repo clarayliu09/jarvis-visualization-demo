@@ -1,0 +1,127 @@
+{
+  "request_id": "req_5",
+  "prompt_tokens": 15,
+  "generated_tokens": 24,
+  "token_times": [
+    {
+      "token": " For",
+      "recv_time": 1779001500.0,
+      "sent_time": 1779001500.08512
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001502.417739,
+      "sent_time": 1779001502.503342
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001505.309691,
+      "sent_time": 1779001505.397649
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001507.577656,
+      "sent_time": 1779001507.643554
+    },
+    {
+      "token": " value",
+      "recv_time": 1779001510.636811,
+      "sent_time": 1779001510.715844
+    },
+    {
+      "token": " is",
+      "recv_time": 1779001513.70402,
+      "sent_time": 1779001513.78216
+    },
+    {
+      "token": " typically",
+      "recv_time": 1779001516.327604,
+      "sent_time": 1779001516.390829
+    },
+    {
+      "token": " 3-6x",
+      "recv_time": 1779001519.080528,
+      "sent_time": 1779001519.14678
+    },
+    {
+      "token": " EBITDA,",
+      "recv_time": 1779001521.954754,
+      "sent_time": 1779001522.0142
+    },
+    {
+      "token": " adjusted",
+      "recv_time": 1779001524.46095,
+      "sent_time": 1779001524.531194
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001527.112051,
+      "sent_time": 1779001527.156381
+    },
+    {
+      "token": " is",
+      "recv_time": 1779001529.819509,
+      "sent_time": 1779001529.861972
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001532.623343,
+      "sent_time": 1779001532.674011
+    },
+    {
+      "token": " contract",
+      "recv_time": 1779001535.199609,
+      "sent_time": 1779001535.284522
+    },
+    {
+      "token": " stickiness,",
+      "recv_time": 1779001537.70962,
+      "sent_time": 1779001537.768439
+    },
+    {
+      "token": " and",
+      "recv_time": 1779001540.693192,
+      "sent_time": 1779001540.778232
+    },
+    {
+      "token": " the",
+      "recv_time": 1779001543.049733,
+      "sent_time": 1779001543.13254
+    },
+    {
+      "token": " a",
+      "recv_time": 1779001545.567338,
+      "sent_time": 1779001545.647429
+    },
+    {
+      "token": " of",
+      "recv_time": 1779001548.452702,
+      "sent_time": 1779001548.508147
+    },
+    {
+      "token": " retainer",
+      "recv_time": 1779001551.020358,
+      "sent_time": 1779001551.063852
+    },
+    {
+      "token": " to",
+      "recv_time": 1779001553.93078,
+      "sent_time": 1779001553.971486
+    },
+    {
+      "token": " one-off",
+      "recv_time": 1779001556.449275,
+      "sent_time": 1779001556.533885
+    },
+    {
+      "token": " project",
+      "recv_time": 1779001559.521952,
+      "sent_time": 1779001559.587538
+    },
+    {
+      "token": " revenue.",
+      "recv_time": 1779001562.245004,
+      "sent_time": 1779001562.312876
+    }
+  ]
+}

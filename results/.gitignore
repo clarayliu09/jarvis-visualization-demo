@@ -1,0 +1,8 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+# ...but DO track the Project-1 demo run folders (eta_1.0 ... eta_0.1).
+# Re-include the directories first, then their contents.
+!eta_*/
+!eta_*/**
