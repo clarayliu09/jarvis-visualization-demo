@@ -22,6 +22,11 @@ The demo requires the following Python packages:
 * `matplotlib`
 * `numpy`
 
+### Installation
+```bash
+pip install streamlit matplotlib numpy
+```
+
 Python's `json` and `time` libraries are also used
 
 ## Data organization
