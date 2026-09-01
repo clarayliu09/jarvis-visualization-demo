@@ -371,7 +371,7 @@ def top_bar():
   # disable changing configuration after a run has been loaded
   config_locked = st.session_state.playing or len(st.session_state.timed_data) > 0
 
-  # prevents user from changing speed if a run is in play
+  # prevents user from changing speed if a run is unfinished
   speedo_locked = st.session_state.playing or (st.session_state.elapsed_sim != 0.0 and not st.session_state.all_complete)
 
   with st.container(border=True, height="stretch", key="top_bar"):
@@ -382,7 +382,6 @@ def top_bar():
       vertical_alignment="center"
     )
 
-    # TODO: fix prompt visibility in dropdown
     with prompt_col:
       prompt = st.selectbox(
         label="Select prompt",
@@ -500,7 +499,6 @@ if len(st.session_state.timed_data) == num_runs:
 
     # If at least one token has already been generated, display the previous token's metrics
     if len(timed_data_i)>0 and st.session_state.tok_inds[i]>0:
-      # if a run has been loaded and already started
 
       prev_tok = timed_data_i[st.session_state.tok_inds[i]-1]
       tok_nums[i] = prev_tok["token_num"]
@@ -521,7 +519,7 @@ else:
 # main layout 
 replay_col, metrics_col = st.columns([1.5,1], gap="small")
 
-# stores replay texts and progress bars so that I can update them later
+# stores replay texts and progress bars so they can be updated later
 replay_text_placeholders = []
 progress_bars = []
 
@@ -579,7 +577,7 @@ with replay_col:
 # LIVE METRICS
 
 # 4 metric placeholders per run: 
-# (current tps, avg tps, generated tokens)
+# (current tps, avg tps, generated tokens, completion time)
 metric_placeholders = []
 
 with metrics_col:
