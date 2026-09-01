@@ -1,7 +1,7 @@
 # JARVIS Visualization Demo
 An interactive visualization and replay dashboard for analyzing token generation performance.
 
-This project was developed during my internship at Northeastern University. The demo uses data processed from the results provided by the research team.
+This project was developed during my internship at Northeastern University under the supervision of Professor Stratis Ioannidis. The demo uses data processed from the results provided by the research team.
 
 ## Features
 The project has two Streamlit applications:
@@ -58,3 +58,6 @@ streamlit run demo/run_replay.py
 ```bash
 streamlit run demo/compare_runs.py
 ```
+
+## Acknowledgements
+We gratefully acknowledge support from the National Science Foundation (grant 2112471).
