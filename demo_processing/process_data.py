@@ -42,13 +42,10 @@ def process_trace(eta, prompt_id):
 
     timed_data.append({"time": time, "token_num": token_num, "token": token, "instant_tps": instant_tps, "avg_tps": avg_tps})
 
-    #print(f"token number {token_num}, '{token}' was sent at time {time}. the instantaneous tokens per second is {instant_tps}, and the average tokens per second is {avg_tps}")
     t_prev = time
 
-  #print(timed_data)
 
   quality_score = json.load(open(f"../results/eta_{eta}/ppl_results.json")).get("avg_utility")
-  #print(f"quality score for eta: {eta} and prompt #{prompt_id} is {quality_score}")
 
   run_summary = {"eta": eta, "avg_tps": avg_tps, "completion_time": t_prev, "quality_score": quality_score}
 

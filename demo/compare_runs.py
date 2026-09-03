@@ -609,7 +609,7 @@ with metrics_col:
       "Average tokens/s",
       "Generated tokens",
       "Completion time"
-  ]
+    ]
 
     for col, title in zip(header, headers):
       with col:
@@ -714,6 +714,7 @@ if st.session_state.playing:
     if tok_ind >= total_toks_i:
       st.session_state.run_complete[i] = True
 
+      # store completion time for this run
       if st.session_state.completion_times[i] is None:
         st.session_state.completion_times[i] = timed_data_i[tok_ind-1]["time"]
 
