@@ -8,8 +8,6 @@ prompts = [1,2,3,4,5,6,7]
 for eta in etas:
   for prompt in prompts:
     output = process_trace(eta, prompt)
-    #print(f"output for eta {eta} and prompt number {prompt}")
-    #print(output)
 
     path = f"../demo_metrics/eta_{eta}/metrics_{prompt}.json"
 
