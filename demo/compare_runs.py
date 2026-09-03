@@ -11,6 +11,7 @@ st.set_page_config(
 
 ETAS = [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]
 PROMPTS = []
+NUM_PROMPTS = 7
 COLORS = ("#4285F4", "#34A853", "#F9AB00")
 
 # loading prompts 
@@ -18,7 +19,7 @@ def strip_prompt(text): # took this from combined_demo.py
   t = text.split("user", 1)[1] if "user" in text else text
   return t.split("<end_of_turn>")[0].replace("\\n", " ").strip()
 
-for i in range(1,8):
+for i in range(1,NUM_PROMPTS+1):
   path = f"results/eta_1.0/prompt_{i}.txt"
   with open(path, "r") as file:
     prompt = strip_prompt(file.read())
